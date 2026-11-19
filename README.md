@@ -20,6 +20,10 @@ Writing and maintaining functional tests for a web application is slow, and the 
 
 ## Dashboard
 
+![Test results view](docs/dashboard-tests.png)
+
+![Scenario management view](docs/dashboard-scenarios.png)
+
 A React dashboard lets a non-developer:
 
 - create, edit and delete scenarios, and see the generated test code;
